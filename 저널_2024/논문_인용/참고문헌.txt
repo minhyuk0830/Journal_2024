@@ -1,0 +1,24 @@
+참고문헌
+1 - 
+"2024 Global Electric Vehicle Market Growth Forecast at 16.6%", SNE Research, https://www.sneresearch.com/kr/insight/release_view/246/page/0?s_cat=%7C&s_keyword=, July 2, 2024
+
+2 - 
+"Korea Power Exchange. Electric Vehicles and Chargers Distribution and Usage Analysis Report", Korea Power Exchange, pp. 2-8, 2021.
+
+3 - 
+"Fire Incidence Statistics for Electric and Internal Combustion Engine Vehicles", Korean National Fire Agency, pp. 1-2, 2022
+
+4 - 
+Kyung-Sang Ryu, Ho-Chan Kim, "Battery Cell SOC Estimation Using Neural Network", The Korean Society of Electrical and Electronic Affairs, Vol. 24, No. 1, pp. 333–338, 2020
+
+5 - 
+Do-yang Jeong, "BMS technology for electric vehicles", The Journal of The Korean Institute of Power Electronics, Vol. 19, No. 6, pp. 45-54, 2014
+
+6 - 
+"Fire while charging an electric car in a Busan apartment...Damage to 6 vehicles (Roundup)", Yonhap News Agency, https://www.yna.co.kr/view/AKR20230501048300051, May 1, 2023
+
+7 - 
+Dong-hyeon Jeong, "A Study on Fire Response in Charging Facilities for Electric Vehicle", Graduate School of Engineering, Kyunggi University with a Master's Degree in Korea
+
+8 - 
+Myung-Bo Gang, Woo-Young Kim, Nam-Jin Kim, "Numerical Comparative Study on the Thermal Runaway of NCM/LFP Batteries of the Same Geometry", Korean Society for Geothermal and Hydrothermal Energy (KSGHE), Vol. 18, No. 4, pp. 1-11, 2022
